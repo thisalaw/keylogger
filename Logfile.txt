@@ -1,0 +1,100 @@
+
+[3] WindowName : C:\Users\Asus\Desktop\Python-Keylogger--master\Logger.exe
+	Keyboard key :H
+====================
+[3] WindowName : C:\Users\Asus\Desktop\Python-Keylogger--master\Logger.exe
+	Keyboard key :B
+====================
+[3] WindowName : C:\Users\Asus\Desktop\Python-Keylogger--master\Logger.exe
+	Keyboard key :H
+====================
+[3] WindowName : C:\Users\Asus\Desktop\Python-Keylogger--master\Logger.exe
+	Keyboard key :K
+====================
+[3] WindowName : C:\Users\Asus\Desktop\Python-Keylogger--master\Logger.exe
+	Keyboard key :B
+====================
+[3] WindowName : C:\Users\Asus\Desktop\Python-Keylogger--master\Logger.exe
+	Keyboard key :H
+====================
+[3] WindowName : C:\Users\Asus\Desktop\Python-Keylogger--master\Logger.exe
+	Keyboard key :J
+====================
+[3] WindowName : C:\Users\Asus\Desktop\Python-Keylogger--master\Logger.exe
+	Keyboard key :K
+====================
+[3] WindowName : C:\Users\Asus\Desktop\Python-Keylogger--master\Logger.exe
+	Keyboard key :B
+====================
+[3] WindowName : C:\Users\Asus\Desktop\Python-Keylogger--master\Logger.exe
+	Keyboard key :J
+====================
+[3] WindowName : C:\Users\Asus\Desktop\Python-Keylogger--master\Logger.exe
+	Keyboard key :K
+====================
+[3] WindowName : C:\Users\Asus\Desktop\Python-Keylogger--master\Logger.exe
+	Keyboard key :S
+====================
+[3] WindowName : C:\Users\Asus\Desktop\Python-Keylogger--master\Logger.exe
+	Keyboard key :C
+====================
+[3] WindowName : C:\Users\Asus\Desktop\Python-Keylogger--master\Logger.exe
+	Keyboard key :S
+====================
+[3] WindowName : C:\Users\Asus\Desktop\Python-Keylogger--master\Logger.exe
+	Keyboard key :C
+====================
+[3] WindowName : C:\Users\Asus\Desktop\Python-Keylogger--master\Logger.exe
+	Keyboard key :S
+====================
+[3] WindowName : C:\Users\Asus\Desktop\Python-Keylogger--master\Logger.exe
+	Keyboard key :C
+====================
+[3] WindowName : Logfile.txt - Notepad
+	Keyboard key :S
+====================
+[3] WindowName : *Logfile.txt - Notepad
+	Keyboard key :S
+====================
+[3] WindowName : *Logfile.txt - Notepad
+	Keyboard key :A
+====================
+[3] WindowName : *Logfile.txt - Notepad
+	Keyboard key :A
+====================
+[3] WindowName : C:\Users\Asus\Desktop\Python-Keylogger--master\Logger.exe
+	Keyboard key :A
+====================
+[3] WindowName : Python-Keylogger--master
+	Keyboard key :T
+====================
+[3] WindowName : t - Python-Keylogger--master
+	Keyboard key :H
+====================
+[3] WindowName : th - Python-Keylogger--master
+	Keyboard key :I
+====================
+[3] WindowName : thi - Python-Keylogger--master
+	Keyboard key :S
+====================
+[3] WindowName : this - Python-Keylogger--master
+	Keyboard key :A
+====================
+[3] WindowName : Python-Keylogger--master
+	Keyboard key :A
+====================
+[3] WindowName : a - Search Results in Python-Keylogger--master
+	Keyboard key :Back
+====================
+[3] WindowName : Python-Keylogger--master
+	Keyboard key :A
+====================
+[3] WindowName : a - Python-Keylogger--master
+	Keyboard key :L
+====================
+[3] WindowName : al - Python-Keylogger--master
+	Keyboard key :A
+====================
+[3] WindowName : ala - Python-Keylogger--master
+	Keyboard key :A
+====================
